@@ -1,10 +1,9 @@
 # No-Reference Physics-Based Quality Assessment of Polarization Images and its Application to Demosaicking. IEEE TIP 2021
 
 ## Content Description
-- Code:
-	- demo.m : demo.m : Run this code to see how to call the function that calculate the APMR criterion and predict the quality of the example input polarizaiton images by adding Gaussian noise.
-	- APMR_compute.m : Function for computing the APMR criterion.
-	- example.mat : An example of ideal input polarization images for testing the code.
+- demo.m : Run this code to see how to call the function that calculate the APMR criterion and predict the quality of the example input polarizaiton images by adding Gaussian noise.
+- APMR_compute.m : Function for computing the APMR criterion.
+- example.mat : An example of ideal input polarization images for testing the code.
 
 ### Citation
 
