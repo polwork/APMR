@@ -16,6 +16,7 @@
   volume={},
   number={},
   pages={1-1},
-  doi={10.1109/TIP.2021.3122085}}
+  doi={10.1109/TIP.2021.3122085}
+}
 ```
  If you have any question, please contact ：ln_neo@mail.nwpu.edu.cn
