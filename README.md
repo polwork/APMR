@@ -9,13 +9,13 @@
 
 ```
 @ARTICLE{9591341,
-  author={Li, Ning and Le Teurnier, Benjamin and Boffety, Matthieu and Goudail, François and Zhao, Yongqiang and Pan, Quan},
-  journal={IEEE Transactions on Image Processing}, 
-  title={No-Reference Physics-Based Quality Assessment of Polarization Images and its Application to Demosaicking}, 
+  author={Li, Ning and Teurnier, Benjamin Le and Boffety, Matthieu and Goudail, François and Zhao, Yongqiang and Pan, Quan},
+  journal={IEEE Transactions on Image Processing},
+  title={No-Reference Physics-Based Quality Assessment of Polarization Images and Its Application to Demosaicking},
   year={2021},
-  volume={},
+  volume={30},
   number={},
-  pages={1-1},
+  pages={8983-8998},
   doi={10.1109/TIP.2021.3122085}
 }
 ```
